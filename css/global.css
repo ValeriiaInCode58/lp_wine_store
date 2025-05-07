@@ -14,3 +14,10 @@ image {
     display: block;
     width: 100%;
 }
+
+:root {
+    --accent: #d98e2b;
+    --text: #1a1a1a;
+    --text-white: #FFFFFF;
+
+}
